@@ -43,7 +43,8 @@ body {
 }
 
 #container {
-    width: 360px;        
+    width: 100%;        
+    max-width: 588px;
     margin: 56px auto 0px; /*centraliza width, top, laterais(auto) 0px botton*/
     padding: 0 24px;
 
